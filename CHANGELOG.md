@@ -1,6 +1,12 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+## [0.4.2] - 2026-05-18
+
+### Changes
+
+- chore: update GitHub URLs for tuist org by [@pepicrft](https://github.com/pepicrft)
+
 ## [0.4.1] - 2026-04-02
 
 ### Bug Fixes
